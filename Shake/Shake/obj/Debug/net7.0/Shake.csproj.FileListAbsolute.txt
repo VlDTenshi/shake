@@ -1,0 +1,15 @@
+C:\Users\vduda\source\repos\Shake\Shake\Shake\bin\Debug\net7.0\Shake.exe
+C:\Users\vduda\source\repos\Shake\Shake\Shake\bin\Debug\net7.0\Shake.deps.json
+C:\Users\vduda\source\repos\Shake\Shake\Shake\bin\Debug\net7.0\Shake.runtimeconfig.json
+C:\Users\vduda\source\repos\Shake\Shake\Shake\bin\Debug\net7.0\Shake.dll
+C:\Users\vduda\source\repos\Shake\Shake\Shake\bin\Debug\net7.0\Shake.pdb
+C:\Users\vduda\source\repos\Shake\Shake\Shake\obj\Debug\net7.0\Shake.csproj.AssemblyReference.cache
+C:\Users\vduda\source\repos\Shake\Shake\Shake\obj\Debug\net7.0\Shake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vduda\source\repos\Shake\Shake\Shake\obj\Debug\net7.0\Shake.AssemblyInfoInputs.cache
+C:\Users\vduda\source\repos\Shake\Shake\Shake\obj\Debug\net7.0\Shake.AssemblyInfo.cs
+C:\Users\vduda\source\repos\Shake\Shake\Shake\obj\Debug\net7.0\Shake.csproj.CoreCompileInputs.cache
+C:\Users\vduda\source\repos\Shake\Shake\Shake\obj\Debug\net7.0\Shake.dll
+C:\Users\vduda\source\repos\Shake\Shake\Shake\obj\Debug\net7.0\refint\Shake.dll
+C:\Users\vduda\source\repos\Shake\Shake\Shake\obj\Debug\net7.0\Shake.pdb
+C:\Users\vduda\source\repos\Shake\Shake\Shake\obj\Debug\net7.0\Shake.genruntimeconfig.cache
+C:\Users\vduda\source\repos\Shake\Shake\Shake\obj\Debug\net7.0\ref\Shake.dll
